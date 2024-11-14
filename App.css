@@ -1,0 +1,12 @@
+.clear-sky {
+  background-image: url('clear-sky.jpg');
+  background-size: cover;
+}
+.rainy {
+  background-image: url('rain.jpg');
+  background-size: cover;
+}
+.snowy {
+  background-image: url('snow.jpg');
+  background-size: cover;
+}
